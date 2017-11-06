@@ -1,0 +1,19 @@
+{
+  "name": "time-logger",
+  "version": "1.0.0",
+  "description": "An app to improve React, Redux knowledge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/86mattw/time-logger.git"
+  },
+  "author": "Matt Wilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/86mattw/time-logger/issues"
+  },
+  "homepage": "https://github.com/86mattw/time-logger#readme"
+}
